@@ -42,7 +42,7 @@ driver.find_element_by_css_selector('#root > div.Pos\(r\).T\(0\).W\(100\%\).Mih\
 
 time.sleep(3)
 
-driver.find_element_by_css_selector('#root > div.Pos\(f\).Start\(0\).W\(100\%\).T\(0\).H\(100\%\).Z\(300\).Bgc\(\$modal\) > div > div > div.Fxs\(0\).W\(100\%\).Bdt\(\$bdinput\).Bgc\(white\).Op\(1\) > form > textarea').send_keys("ಪೈಥಾನ್ ಫೌಂಡರ್ ಗಿಡೋ ವ್ಯಾನ್ ರೋಸಮ್ ಡಿ ಬಾಸ್ ಅವೆಸಂ")
+driver.find_element_by_css_selector('#root > div.Pos\(f\).Start\(0\).W\(100\%\).T\(0\).H\(100\%\).Z\(300\).Bgc\(\$modal\) > div > div > div.Fxs\(0\).W\(100\%\).Bdt\(\$bdinput\).Bgc\(white\).Op\(1\) > form > textarea').send_keys("comments putting") #replace with your cmt
 
 time.sleep(3)
 
