@@ -1,8 +1,13 @@
 # Sharechat-auto-login-likes-comment
-Sharechat auto login,likes,comment using python with selenium
 
-replace ph no in 17th line and required line in 45line 
-Download The Latest Version Of Chrome Driver https://chromedriver.chromium.org/ (which matches your chrome version) & Extract The File And Place To These Folder open cmd and enter share.py
+Sharechat auto-login, likes, and comment using Python with Selenium.
 
-👉Video
+Please replace the phone number in the 17th line and the required line in the 45th line.
+
+Download the latest version of the Chrome driver, which matches your Chrome version, from https://chromedriver.chromium.org/ and extract the file. 
+
+Place it in the designated folder, open the command prompt, and enter share.py. 
+
+Check out the video tutorial:
+
 https://youtu.be/tEtme_TxgyU
