@@ -8,10 +8,6 @@ Download the latest version of the Chrome driver, which matches your Chrome vers
 
 Place it in the designated folder, open the command prompt, and enter share.py. 
 
-👉Check out the video tutorial:
-
-https://youtu.be/tEtme_TxgyU
-
 👉Note:-
 
 👉If you have the latest version of Selenium, the code may not run
