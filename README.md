@@ -1,10 +1,6 @@
 # Sharechat-auto-login-likes-comment
 
-<p align="center">
-  <a href="https://hits.sh/github.com/yashu1wwww/">
-    <img alt="Hits" src="https://hits.sh/github.com/yashu1wwww.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/>
-  </a>
-</p>
+
 
 
 Sharechat auto-login, likes, and comment using Python with Selenium.
