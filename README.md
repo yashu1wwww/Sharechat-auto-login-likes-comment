@@ -1,9 +1,6 @@
 # Sharechat-auto-login-likes-comment
 
-
-
-
-Sharechat auto-login, likes, and comment using Python with Selenium.
+Simple Sharechat auto-login, likes, and comment using Python with Selenium.
 
 Please replace the phone number in the 17th line and the required line in the 45th line.
 
