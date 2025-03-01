@@ -2,7 +2,7 @@
 
 Simple Sharechat auto-login, likes, and comment using Python with Selenium.
 
-Please replace the phone number in the 17th line and the required line in the 45th line.
+Please replace the phone number in the line.
 
 Download the latest version of the Chrome driver, which matches your Chrome version, from https://chromedriver.chromium.org/ and extract the file. 
 
