@@ -1,11 +1,5 @@
 # Sharechat-auto-login-likes-comment
 
-ug
-https://docs.google.com/forms/d/e/1FAIpQLSewbKMq1p4B7gsj_pIOsg0QbMVB9g-MK7UmmvlGzHdWSYKH6g/viewform
-
-pg
-https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/pg-admission?authuser=0
-
 
 Simple Sharechat auto-login, likes, and comment using Python with Selenium.
 
