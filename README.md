@@ -1,5 +1,12 @@
 # Sharechat-auto-login-likes-comment
 
+# UG
+https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/ug-admission?authuser=0
+
+# PG
+
+https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/pg-admission?authuser=0
+
 
 Simple Sharechat auto-login, likes, and comment using Python with Selenium.
 
