@@ -7,6 +7,9 @@ https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/ug-admiss
 
 https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/pg-admission?authuser=0
 
+# Cmd to take backup
+
+sudo mysqldump -uroot -p koha_library | xz > ~/Downloads/koha_library_backup.sql.xz
 
 Simple Sharechat auto-login, likes, and comment using Python with Selenium.
 
