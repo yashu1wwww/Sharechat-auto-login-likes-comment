@@ -1,12 +1,5 @@
 # Sharechat-auto-login-likes-comment
 
-# UG
-https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/ug-admission?authuser=0
-
-# PG
-
-https://sites.google.com/shrideviengineering.org/siet-ramesh-admission/pg-admission?authuser=0
-
 # Cmd to take backup
 
 sudo mysqldump -uroot -p koha_library | xz > ~/Downloads/koha_library_backup.sql.xz
